@@ -100,7 +100,7 @@ const callFunction = function () {
         else {
 
 
-            // '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'
+
 
             // Set the endpoint URL
             const url = 'https://api.openai.com/v1/chat/completions';
