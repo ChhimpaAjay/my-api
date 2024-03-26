@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generate random business idea on click</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- <link rel="stylesheet" href="phone.css"> -->
+
+</head>
+
+<body>
+
+    <head>
+        <div class="navbar_container">
+            <div class="name_business">
+                <img id="logo_img" src="logo.png" alt="logo">
+                <div class="name_B">B</div>
+                <div class="name_Usiness">usiness</div>
+                <div class="nevbar_menu platform">Platform</div>
+                <div class="nevbar_menu method">method</div>
+                <div class="nevbar_menu customers">Customers</div>
+                <div class="nevbar_menu solution">Solution</div>
+                <div class="nevbar_menu resourses">Resourses</div>
+                <div class="nevbar_menu pricing">Pricing</div>
+                <div class="nevbar_menu space"></div>
+                <div class="nevbar_menu sing_in">Sing In</div>
+                <div class="nevbar_menu sing_up">Sing Up</div>
+                <div class="nevbar_menu demo">
+
+                    <button id="demo_btn"><i class="fa-thin fa-star"> &#9734;</i></i>Demo</button>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="main">
+            <div class="heading">AI Idea Generator</div>
+            <div class="heading_world">The best online tool to quickly generate ideas. Automatic and free. Brainstorm
+                new
+                ideas for your business in a few seconds.</div>
+        </div>
+        <div class="demoAndFree">
+
+            <div class="min_demo">
+                <div class="min_demo_text">30-min Demo</div>
+                <div class="min_div"><img class="back_png" alt="">
+
+                </div>
+
+            </div>
+            <div class="start-free">Start Free</div>
+        </div>
+    </head>
+    <div class="section">
+        <div class="idea_purpose">Idea Purpose
+
+            <div>
+
+                <select name="purpose" id="idea_purpose_selector" class="idea_purpose_selector" value=""></select>
+                <!--  <option value="" disabled="disabled">Select something</option>
+       <option value="Product_&_Service"  >Product & Service</option>
+      <option value="">Cost-Saving & Efficiency</option>
+      <option value="">Customer Satisfaction</option>
+      <option value="">Marketing & Brand</option>
+      <option value="">Sales & Business Model</option>
+      <option value="">Partners & Distribution</option>
+      <option value="">Learning & Knowledge Sharing</option>
+      <option value="">Culture & Collaboration</option>
+      <option value="">Sustainability & Social Impact</option>
+      <option value="">Risk & Compliance</option>
+      <option value="">Data & Technology</option>
+      <option value="">Future Readiness</option>
+      <option value="">Other</option> -->
+
+
+
+                <span class="span_1">Create high quality ideas based on a goal-driven idea collection with the help of
+                    Ideanote’s trained AI.</span>
+            </div>
+            <div>
+                <div class="company_name">Company and product Name</div>
+                <input type="text" placeholder="ACME Inc." class="input_name">
+            </div>
+            <div class="product_summary">
+                <div class="summary_name">Company or Product Summary</div>
+                <input type="text" placeholder="X Product was Founded in x and is know for Y"
+                    class="input_product_summary">
+
+
+            </div>
+            <div class="generate_idea" id="generate_idea_btn"><button class="btn_generate_idea"><img class="btn_img"
+                        src="back.png.svg" alt="">Generate Ideas</button></div>
+        </div>
+        <div class="AI_generated_text ">
+
+            <div class="AI_text"> <img class="ai_img" src="ai.png.svg" alt=""></div>
+            <div><span class="ai_text_span1">Welcome to the AI Idea Generator</span>
+            </div>
+            <div> <span class="ai_text_span2">Fill in some information about your company and click generate.</span>
+            </div>
+
+
+        </div>
+        <div class="container hidden">
+            <!-- <div class="totalNumber">Total-Ideas =<div class="total_idea"></div>
+            </div> -->
+            <div class="com_pro_nmae">
+                <input type="text" class="company_name_print" placeholder="Enter Company Name">
+                <input class="product_name_print" placeholder="Enter Product Name">
+
+            </div>
+
+
+            <div class="heading_tital">
+
+                <div class="loader">
+                    <div class="center">
+                        <div class="ring"></div>
+                        <span class="span11">loading...</span>
+                    </div>
+                </div>
+
+                <div class="tital">How might we revolutionize finacical news coverage ?
+
+                </div>
+                <div class="explenations1">We want to gather ideas on how we can transform our financial news coverage
+                    to
+                    provide more value to our audience and stay ahead of the competition. We encourage ideas related to
+                    innovative news formats, interactive tools, and personalized content experiences.</div>
+            </div>
+
+            <div class="buttons_end">
+                <div class="button_next ">
+                    <button class="next_btn btn_end">Generate More</button>
+                </div>
+                <div class="button_cliar ">
+                    <button class="cliar btn_end">clear all</button>
+                </div>
+            </div>
+
+        </div>
+
+
+
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>

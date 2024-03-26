@@ -1,0 +1,6 @@
+.section{
+    flex-direction: column;
+}
+.navbar_container{
+    flex-direction: column;
+}

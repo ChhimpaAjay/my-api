@@ -1,0 +1,13 @@
+<!-- Animated using SVGANIMA - https://svganima.com -->
+<svg width="36" height="36" xmlns="http://www.w3.org/2000/svg" id="svg5677" preserveAspectRatio="xMidYMid" viewBox="0 0 36 36">
+
+ <defs id="defs3829"></defs><g id="g9501">
+  <title id="title6283">background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"></rect>
+ </g>
+ <g id="g8384">
+  <title id="title2457">Layer 1</title>
+  <path id="svg_1" fill-rule="nonzero" fill="rgb(9.803922%,30.19608%,96.078432%)" d=" m 6.034857,6.11719 c -0.38281,0.1875 -0.625,0.58203 -0.625,1.00781 l 0,21.75 c 0,0.42578 0.24219,0.82031 0.625,1.00781 c 0.16016,0.07813 0.32813,0.11719 0.5,0.11719 c 0.24219,0 0.48438,-0.07812 0.68359,-0.23047 l 14.25,-10.875 c 0.27735,-0.21484 0.44141,-0.54297 0.44141,-0.89453 c 0,-0.35156 -0.16406,-0.67969 -0.44141,-0.89453 l -14.25,-10.875 c -0.33984,-0.25781 -0.79687,-0.30078 -1.18359,-0.11328 z m 0,0"><animate attributeType="auto" attributeName="fill-opacity" values="0.1;1;1;1;0.1" calcMode="spline" keyTimes="0;0.25;0.4999999999999999;0.75;1" keySplines="0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1" dur="4s" begin="0s" repeatCount="indefinite" additive="replace" accumulate="none" fill="freeze" id="animate876"></animate></path>
+  <path id="svg_2" fill-rule="nonzero" fill="rgb(9.803922%,30.19608%,96.078432%)" d=" m 16.994049,6.11719 c -0.38281,0.1875 -0.625,0.58203 -0.625,1.00781 l 0,21.75 c 0,0.42578 0.24219,0.82031 0.625,1.00781 c 0.16016,0.07813 0.32813,0.11719 0.5,0.11719 c 0.24219,0 0.48438,-0.07812 0.68359,-0.23047 l 14.25,-10.875 c 0.27735,-0.21484 0.44141,-0.54297 0.44141,-0.89453 c 0,-0.35156 -0.16406,-0.67969 -0.44141,-0.89453 l -14.25,-10.875 c -0.33984,-0.25781 -0.79687,-0.30078 -1.18359,-0.11328 z m 0,0"><animate attributeType="auto" attributeName="opacity" values="1;1;1;0.1;1;1" calcMode="spline" keyTimes="0;0.24975000000000003;0.25;0.5;0.75;1" keySplines="0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1" dur="4s" begin="0s" repeatCount="indefinite" additive="replace" accumulate="none" fill="freeze" id="animate5911"></animate></path>
+ </g>
+</svg>
